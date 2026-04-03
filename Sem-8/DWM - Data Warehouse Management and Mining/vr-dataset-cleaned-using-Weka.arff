@@ -1,0 +1,58 @@
+@relation vr-dataset-weka.filters.unsupervised.attribute.Remove-R2-weka.filters.unsupervised.attribute.Remove-R1-2-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute Age numeric
+@attribute Gender {M,F}
+@attribute Department {CSE,EEE,MECH}
+@attribute CGPA numeric
+
+@data
+21,M,CSE,8.5
+22,F,EEE,7.8
+21,M,MECH,8.1
+20,F,CSE,8.9
+22,M,CSE,7.9
+21,F,EEE,8.2
+23,M,MECH,8
+20,F,CSE,9.1
+21,M,CSE,8.3
+22,F,EEE,7.7
+23,M,MECH,8.4
+20,F,CSE,8.7
+21,M,CSE,7.6
+22,F,EEE,8.8
+21,M,MECH,8.1
+20,F,CSE,9
+23,M,CSE,8.5
+21,F,EEE,7.9
+22,M,MECH,8.2
+20,F,CSE,8.6
+21,M,CSE,7.8
+22,F,EEE,8.3
+23,M,MECH,8.7
+20,F,CSE,9.2
+21,M,CSE,8.4
+22,F,EEE,7.5
+21,M,MECH,8.9
+20,F,CSE,8.1
+23,M,CSE,7.7
+21,F,EEE,8.5
+22,M,MECH,8
+20,F,CSE,9
+21,M,CSE,8.6
+22,F,EEE,8.2
+23,M,MECH,7.9
+20,F,CSE,8.8
+21,M,CSE,8.3
+22,F,EEE,7.8
+21,M,MECH,8.4
+20,F,CSE,9.1
+23,M,CSE,8.7
+21,F,EEE,8
+22,M,MECH,8.5
+20,F,CSE,7.6
+21,M,CSE,8.9
+22,F,EEE,8.3
+23,M,MECH,8.1
+20,F,CSE,8.4
+21,M,CSE,7.9
+22,F,EEE,8.7
